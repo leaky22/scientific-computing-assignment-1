@@ -1,0 +1,17 @@
+Assignment 1 - Part (d)
+Q (d) Differences Between Compiled and Interpreted Programming Languages
+
+1. Compiled Languages:
+- The entire program is translated into machine code before execution.
+- Faster execution time since the code is already compiled.
+- Examples: C, C++, Go.
+
+2. Interpreted Languages:
+- Code is executed line-by-line at runtime using an interpreter.
+- Easier to debug and test code interactively.
+- Examples: Python, JavaScript, Ruby.
+
+3. Classification of Python:
+- Python is an interpreted language.
+- It uses an interpreter (like CPython) to execute code line-by-line at runtime, which makes it easier to test and debug.
+
